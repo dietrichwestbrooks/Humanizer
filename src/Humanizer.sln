@@ -37,6 +37,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuSpecs", "NuSpecs", "{AA449265-E001-486D-A0F4-04ACF0C83DC1}"
 	ProjectSection(SolutionItems) = preProject
 		..\NuSpecs\Humanizer.Core.af.nuspec = ..\NuSpecs\Humanizer.Core.af.nuspec
+		..\NuSpecs\Humanizer.Core.ar.nuspec = ..\NuSpecs\Humanizer.Core.af-ZA.nuspec
 		..\NuSpecs\Humanizer.Core.ar.nuspec = ..\NuSpecs\Humanizer.Core.ar.nuspec
 		..\NuSpecs\Humanizer.Core.az.nuspec = ..\NuSpecs\Humanizer.Core.az.nuspec
 		..\NuSpecs\Humanizer.Core.bg.nuspec = ..\NuSpecs\Humanizer.Core.bg.nuspec
@@ -46,6 +47,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuSpecs", "NuSpecs", "{AA44
 		..\NuSpecs\Humanizer.Core.de.nuspec = ..\NuSpecs\Humanizer.Core.de.nuspec
 		..\NuSpecs\Humanizer.Core.el.nuspec = ..\NuSpecs\Humanizer.Core.el.nuspec
 		..\NuSpecs\Humanizer.Core.es.nuspec = ..\NuSpecs\Humanizer.Core.es.nuspec
+		..\NuSpecs\Humanizer.Core.es.nuspec = ..\NuSpecs\Humanizer.Core.en-ZA.nuspec
 		..\NuSpecs\Humanizer.Core.fa.nuspec = ..\NuSpecs\Humanizer.Core.fa.nuspec
 		..\NuSpecs\Humanizer.Core.fi-FI.nuspec = ..\NuSpecs\Humanizer.Core.fi-FI.nuspec
 		..\NuSpecs\Humanizer.Core.fr-BE.nuspec = ..\NuSpecs\Humanizer.Core.fr-BE.nuspec

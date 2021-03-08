@@ -26,8 +26,10 @@ namespace Humanizer.Configuration
             RegisterDefaultFormatter("tr");
             RegisterDefaultFormatter("vi");
             RegisterDefaultFormatter("en-US");
+            RegisterDefaultFormatter("en-ZA");
             RegisterDefaultFormatter("af");
             RegisterDefaultFormatter("az");
+            RegisterDefaultFormatter("af-ZA");
             RegisterDefaultFormatter("da");
             RegisterDefaultFormatter("de");
             RegisterDefaultFormatter("el");

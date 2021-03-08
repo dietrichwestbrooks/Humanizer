@@ -8,7 +8,9 @@ namespace Humanizer.Configuration
             : base((culture) => new EnglishNumberToWordsConverter())
         {
             Register("af", new AfrikaansNumberToWordsConverter());
+            Register("af-ZA", new AfrikaansSouthAfricaNumberToWordsConverter());
             Register("en", new EnglishNumberToWordsConverter());
+            Register("en-ZA", new EnglishSouthAfricaNumberToWordsConverter());
             Register("ar", new ArabicNumberToWordsConverter());
             Register("cs", (culture) => new CzechNumberToWordsConverter(culture));
             Register("fa", new FarsiNumberToWordsConverter());
